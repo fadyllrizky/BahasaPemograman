@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <conio.h>
+#include <iostream.h>
+void main()
+{
+int i;//deklarasi
+for (i=20; i<=120; i++) //  pengulangan data dari 21 sampai dengan 119
+{if(i%2==0) // jika i habis dibagi 2 maka tampilkan
+{cout<<i<<endl;} //tampilkan
+}
+getch();
+}
