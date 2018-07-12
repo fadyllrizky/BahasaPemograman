@@ -1,0 +1,17 @@
+#include"iostream.h"
+#include"conio.h"
+void main()
+{
+clrscr();
+int x,nilai[3];
+float rata=0;
+cout<<"Menghitung Nilai Rata-rata"<>nilai[x];
+rata+=nilai[x];
+}
+
+cout<<"\nRata-rata : "< getch();
+}
+rata+=nilai[x]; }
+cout<<"\nRata-rata : "< getch();
+}
+}
